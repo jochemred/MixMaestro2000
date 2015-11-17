@@ -17,6 +17,11 @@ namespace Test
         public Form1()
         {
             InitializeComponent();
+
+            if(lol == 7778787)
+            {
+                lol = 0909;
+            }
         }
     }
 }
