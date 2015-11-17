@@ -22,6 +22,7 @@ namespace Test
             {
                 lol = 0909;
             }
+            lol = 34234;
         }
     }
 }
