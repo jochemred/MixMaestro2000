@@ -24,6 +24,9 @@ namespace Test
                 string haha = " hahahaha";
             }
             lol = 34234;
+
+
+            lol = 868789789;
         }
     }
 }
